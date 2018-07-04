@@ -113,5 +113,5 @@ and others.
 ### References
 <a href="https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5">Real-time Human Pose Estimation in the Browser with TensorFlow.js</a><br>
 <a href="https://github.com/tensorflow/tfjs-models/tree/master/posenet"> Official Tensorflow.js PoseNet Implementation</a><br>
-<a href="https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html">Offical Demo of PoseNet</a><br>
+<a href="https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html">Official Demo of PoseNet</a><br>
 <a href="https://js.tensorflow.org/">Tensorflow.js</a>

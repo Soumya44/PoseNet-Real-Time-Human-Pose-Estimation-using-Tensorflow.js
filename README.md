@@ -10,7 +10,7 @@
 
 Clone this Repo and enter to the ```App```directory located inside the cloned directory using CMD/Terminal.
 
-* **To Clone this Repo :**
+* **To Clone this Repo :**<br>
 ```$ git clone git@github.com:Soumya44/PoseNet-Real-Time-Human-Pose-Estimation-using-Tensorflow.js.git```
 
 * **After getting inside the ```App``` directory, Run<br>**

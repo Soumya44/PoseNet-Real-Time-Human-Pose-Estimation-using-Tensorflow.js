@@ -56,7 +56,9 @@ All keypoints are indexed by part id.  The parts and their ids are:
 
 ### Single-Person Pose Estimation
 
-Single pose estimation is the simpler and faster of the two algorithms. Its ideal use case is for when there is only one person in the image. The disadvantage is that if there are multiple persons in an image, keypoints from both persons will likely be estimated as being part of the same single pose—meaning, for example, that person #1’s left arm and person #2’s right knee might be conflated by the algorithm as belonging to the same pose.
+Single pose estimation is the simpler and faster of the two algorithms. Its ideal use case is for when there is only one person in the image. The disadvantage is that if there are multiple persons in an image, keypoints from both persons will likely be estimated as being part of the same single pose—meaning, for example, that person #1’s left arm and person #2’s right knee might be conflated by the algorithm as belonging to the same pose. <br>
+<strong><em><a href="https://drive.google.com/file/d/1QD3SG3-Js4cHGUwnEEzTazh1gUE-0k0R/view?usp=sharing">Click here For the Detailed Algorithm</a></em></strong>
+
 
 ```javascript
 const pose = await poseNet.estimateSinglePose(image, imageScaleFactor, flipHorizontal, outputStride);

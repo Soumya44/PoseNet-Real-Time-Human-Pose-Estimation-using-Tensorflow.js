@@ -27,7 +27,7 @@ This installs all the dependencies.
 Either a single pose our multiple poses can be estimated from an image.
 Each methodology has its own algorithm and set of parameters.
 
-My documentation of the Single Pose Estimation Algorithm can be found here.
+<strong><em>My documentation of the Single Pose Estimation Algorithm can be found <a href="https://drive.google.com/file/d/1QD3SG3-Js4cHGUwnEEzTazh1gUE-0k0R/view?usp=sharing">here</a>.</em></strong>
 
 ### Keypoints
 

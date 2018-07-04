@@ -100,7 +100,7 @@ const poses = await net.estimateMultiplePoses(image, imageScaleFactor, flipHoriz
 It returns a `promise` that resolves with an array of `poses`, each with a confidence score and an array of `keypoints` indexed by part id, each with a score and position.
 
 ### Credits
-<a href="https://www.linkedin.com/in/prashant-devadiga-84a05612/">Mr. Prashant Devadiga (AVP - Reliance Industries Limited)</a><br>
+<a href="https://www.linkedin.com/in/prashant-devadiga-84a05612/">Mr. Prashant Devadiga</a> (AVP - Reliance Industries Limited)<br>
 <a href="https://www.linkedin.com/in/manjusha-mishra-a15648125/">Manjusha Mishra</a><br>
 and others.
 

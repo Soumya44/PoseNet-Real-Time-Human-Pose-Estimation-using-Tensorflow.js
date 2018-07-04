@@ -1,10 +1,10 @@
-## PoseNet : Real-Time Human Pose Detection using Tensorflow.js
+# PoseNet : Real-Time Human Pose Detection using Tensorflow.js
 
 
 <img src="https://cdn-images-1.medium.com/max/1000/1*7qDyLpIT-3s4ylULsrnz8A.png" alt="keypoints" style="width: 600px;">
 
-PoseNet can be used to estimate either a single pose or multiple poses, meaning there is a version of the algorithm that can detect only one person in an image and one version that can detect multiple persons in an image.
-
+<strong><em>PoseNet can be used to estimate either a single pose or multiple poses, meaning there is a version of the algorithm that can detect only one person in an image and one version that can detect multiple persons in an image.
+</em></strong>
 
 ## Installation
 
@@ -102,5 +102,5 @@ It returns a `promise` that resolves with an array of `poses`, each with a confi
 
 
 ### Let's Get Connected
-E-mail : contact@soumyatechzone.app
-LinkedIn : https://www.linkedin.com/in/soumya-ranjan-behera-989a2a151/
+<strong>E-mail</strong> : contact@soumyatechzone.app <br>
+<strong>LinkedIn</strong> : https://www.linkedin.com/in/soumya-ranjan-behera-989a2a151/

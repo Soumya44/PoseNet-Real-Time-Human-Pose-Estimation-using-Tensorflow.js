@@ -27,7 +27,7 @@ This installs all the dependencies.
 Either a single pose our multiple poses can be estimated from an image.
 Each methodology has its own algorithm and set of parameters.
 
-<strong><em>My documentation of the Single Pose Estimation Algorithm can be found <a href="https://drive.google.com/file/d/1QD3SG3-Js4cHGUwnEEzTazh1gUE-0k0R/view?usp=sharing">here</a>.</em></strong>
+<strong><em>My documentation of the Single Pose Estimation Algorithm can be found <a href="https://drive.google.com/file/d/1kQQ39iKKdlk8oUG8XXDDI0Ylm8g1sElg/view?usp=sharing">here</a>.</em></strong>
 
 ### Keypoints
 
@@ -57,7 +57,7 @@ All keypoints are indexed by part id.  The parts and their ids are:
 ### Single-Person Pose Estimation
 
 Single pose estimation is the simpler and faster of the two algorithms. Its ideal use case is for when there is only one person in the image. The disadvantage is that if there are multiple persons in an image, keypoints from both persons will likely be estimated as being part of the same single pose—meaning, for example, that person #1’s left arm and person #2’s right knee might be conflated by the algorithm as belonging to the same pose. <br>
-<strong><em><a href="https://drive.google.com/file/d/1QD3SG3-Js4cHGUwnEEzTazh1gUE-0k0R/view?usp=sharing">Click here For the Detailed Algorithm</a></em></strong>
+<strong><em><a href="https://drive.google.com/file/d/1kQQ39iKKdlk8oUG8XXDDI0Ylm8g1sElg/view?usp=sharing">Click here For the Detailed Algorithm</a></em></strong>
 
 
 ```javascript

@@ -1,4 +1,4 @@
-# PoseNet : Real-Time Human Pose Detection using Tensorflow.js
+## PoseNet : Real-Time Human Pose Detection using Tensorflow.js
 
 
 <img src="https://cdn-images-1.medium.com/max/1000/1*7qDyLpIT-3s4ylULsrnz8A.png" alt="keypoints" style="width: 600px;">
@@ -101,5 +101,6 @@ It returns a `promise` that resolves with an array of `poses`, each with a confi
 
 
 
-### Get Connected
+### Let's Get Connected
 E-mail : contact@soumyatechzone.app
+LinkedIn : https://www.linkedin.com/in/soumya-ranjan-behera-989a2a151/

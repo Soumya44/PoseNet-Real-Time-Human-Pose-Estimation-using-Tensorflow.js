@@ -10,14 +10,14 @@
 
 Clone this Repo and enter to the ```App```directory located inside the cloned directory using CMD/Terminal.
 
-To Clone this Repo :
+* **To Clone this Repo :**
 ```$ git clone git@github.com:Soumya44/PoseNet-Real-Time-Human-Pose-Estimation-using-Tensorflow.js.git```
 
-After getting inside the ```App``` directory, Run<br>
+* **After getting inside the ```App``` directory, Run<br>**
 ```npm install``` <br>
 This installs all the dependencies.
 
-To run the model :
+* **To run the model :**<br>
 ```npm run start```
 
 (Allow the Browser to use the Web Camera of your PC/Laptop)
@@ -100,18 +100,18 @@ const poses = await net.estimateMultiplePoses(image, imageScaleFactor, flipHoriz
 It returns a `promise` that resolves with an array of `poses`, each with a confidence score and an array of `keypoints` indexed by part id, each with a score and position.
 
 ### Credits
-<a href="https://www.linkedin.com/in/prashant-devadiga-84a05612/">Mr. Prashant Devadiga</a> (AVP - Reliance Industries Limited)<br>
-<a href="https://www.linkedin.com/in/manjusha-mishra-a15648125/">Manjusha Mishra</a><br>
+* <a href="https://www.linkedin.com/in/prashant-devadiga-84a05612/">Mr. Prashant Devadiga</a> (AVP - Reliance Industries Limited)<br>
+* <a href="https://www.linkedin.com/in/manjusha-mishra-a15648125/">Manjusha Mishra</a><br>
 and others.
 
 <br><strong><em>Special Thanks to <a href="http://www.ril.com/">Reliance Industries Limited</a> for this Opportunity.</em></strong>
 
 ### Let's Get Connected
-<strong>E-mail</strong> : contact@soumyatechzone.app <br>
-<strong>LinkedIn</strong> : https://www.linkedin.com/in/soumya-ranjan-behera-989a2a151/
+* <strong>E-mail</strong> : contact@soumyatechzone.app <br>
+* <strong>LinkedIn</strong> : https://www.linkedin.com/in/soumya-ranjan-behera-989a2a151/
 
 ### References
-<a href="https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5">Real-time Human Pose Estimation in the Browser with TensorFlow.js</a><br>
-<a href="https://github.com/tensorflow/tfjs-models/tree/master/posenet"> Official Tensorflow.js PoseNet Implementation</a><br>
-<a href="https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html">Official Demo of PoseNet</a><br>
-<a href="https://js.tensorflow.org/">Tensorflow.js</a>
+* <a href="https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5">Real-time Human Pose Estimation in the Browser with TensorFlow.js</a><br>
+* <a href="https://github.com/tensorflow/tfjs-models/tree/master/posenet"> Official Tensorflow.js PoseNet Implementation</a><br>
+* <a href="https://storage.googleapis.com/tfjs-models/demos/posenet/camera.html">Official Demo of PoseNet</a><br>
+* <a href="https://js.tensorflow.org/">Tensorflow.js</a>

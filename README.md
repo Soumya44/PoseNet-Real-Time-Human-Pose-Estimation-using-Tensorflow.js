@@ -3,8 +3,8 @@
 
 <img src="https://cdn-images-1.medium.com/max/1000/1*7qDyLpIT-3s4ylULsrnz8A.png" alt="keypoints" style="width: 600px;">
 
-###<strong><em>PoseNet can be used to estimate either a single pose or multiple poses, meaning there is a version of the algorithm that can detect only one person in an image and one version that can detect multiple persons in an image.
-</em></strong>
+<h3><strong><em>PoseNet can be used to estimate either a single pose or multiple poses, meaning there is a version of the algorithm that can detect only one person in an image and one version that can detect multiple persons in an image.
+</em></strong></h3>
 
 ## Installation
 

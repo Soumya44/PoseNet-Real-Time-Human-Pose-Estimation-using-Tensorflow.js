@@ -104,7 +104,7 @@ It returns a `promise` that resolves with an array of `poses`, each with a confi
 <a href="https://www.linkedin.com/in/manjusha-mishra-a15648125/">Manjusha Mishra</a><br>
 and others.
 
-<br><strong><em>Special Thanks to <a href="http://www.ril.com/">Reliance Industries Limited</a> for this Opportunuty.</em></strong>
+<br><strong><em>Special Thanks to <a href="http://www.ril.com/">Reliance Industries Limited</a> for this Opportunity.</em></strong>
 
 ### Let's Get Connected
 <strong>E-mail</strong> : contact@soumyatechzone.app <br>

@@ -3,7 +3,7 @@
 
 <img src="https://cdn-images-1.medium.com/max/1000/1*7qDyLpIT-3s4ylULsrnz8A.png" alt="keypoints" style="width: 600px;">
 
-<strong><em>PoseNet can be used to estimate either a single pose or multiple poses, meaning there is a version of the algorithm that can detect only one person in an image and one version that can detect multiple persons in an image.
+###<strong><em>PoseNet can be used to estimate either a single pose or multiple poses, meaning there is a version of the algorithm that can detect only one person in an image and one version that can detect multiple persons in an image.
 </em></strong>
 
 ## Installation
@@ -13,8 +13,8 @@ Clone this Repo and enter to the ```App```directory located inside the cloned di
 To Clone this Repo :
 ```$ git clone git@github.com:Soumya44/PoseNet-Real-Time-Human-Pose-Estimation-using-Tensorflow.js.git```
 
-After getting inside the ```App``` directory, Run
-```npm install```
+After getting inside the ```App``` directory, Run<br>
+```npm install``` <br>
 This installs all the dependencies.
 
 To run the model :

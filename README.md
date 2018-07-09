@@ -18,7 +18,7 @@ Clone this Repo and enter to the ```App```directory located inside the cloned di
 This installs all the dependencies.
 
 * **To run the model :**<br>
-```npm run start```
+```npm run watch```
 
 (Allow the Browser to use the Web Camera of your PC/Laptop)
 
